@@ -3,6 +3,11 @@
 vidsquid is a Python script that compresses various video file formats to MP4 using `ffmpeg`. It focuses on maintaining
 compatibility and reducing file size with three compression levels: Extreme, Medium, and Fast.
 
+Example file size reduction using `Extreme` mode:
+
+<img width="1040" alt="Screenshot 2024-05-25 at 3 14 06 PM" src="https://github.com/cameronspears/vidsquid/assets/25994477/299b587a-2e95-458c-b36b-dadb2389c8db">
+
+
 ## Requirements
 
 - Python 3.6 or higher
